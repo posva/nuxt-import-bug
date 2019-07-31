@@ -2,6 +2,12 @@
 
 ## Instructions
 
+```sh
+yarn
+# It's necessary to get back the stubbed lib
+git checkout node_modules
+```
+
 ### Dev
 
 - Run in dev mode `yarn run dev`
